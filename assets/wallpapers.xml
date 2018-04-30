@@ -16,8 +16,14 @@
  -->
 
 <wallpapers>
-    <wallpaper image="omni_new1" creator="JayRod" name="Wallpaper 001" />
-    <wallpaper image="omni_new3" creator="JayRod" name="Wallpaper 002"/>
-    <wallpaper image="wall10" creator="JP Kenji" name="Wallpaper 003"/>
-    <wallpaper image="wall16" creator="JP Kenji" name="Wallpaper 004"/>
+    <wallpaper image="wall1" creator="CrashOverride" name="Wallpaper 001"/>
+    <wallpaper image="wall2" creator="CrashOverride" name="Wallpaper 002"/>
+    <wallpaper image="wall3" creator="CrashOverride" name="Wallpaper 003"/>
+    <wallpaper image="wall4" creator="CrashOverride" name="Wallpaper 004"/>
+    <wallpaper image="wall5" creator="CrashOverride" name="Wallpaper 005"/>
+    <wallpaper image="wall6" creator="CrashOverride" name="Wallpaper 006"/>
+    <wallpaper image="wall7" creator="CrashOverride" name="Wallpaper 007"/>
+    <wallpaper image="wall8" creator="CrashOverride" name="Wallpaper 008"/>
+    <wallpaper image="wall9" creator="CrashOverride" name="Wallpaper 009"/>
+    <wallpaper image="wall10" creator="HolyAngel" name="Wallpaper 010"/>
 </wallpapers>
