@@ -16,28 +16,22 @@
  -->
 
 <wallpapers>
-    <wallpaper image="wall1" creator="CrashOverride" name="Wallpaper 001"/>
-    <wallpaper image="wall2" creator="CrashOverride" name="Wallpaper 002"/>
-    <wallpaper image="wall3" creator="CrashOverride" name="Wallpaper 003"/>
-    <wallpaper image="wall4" creator="CrashOverride" name="Wallpaper 004"/>
-    <wallpaper image="wall5" creator="CrashOverride" name="Wallpaper 005"/>
-    <wallpaper image="wall6" creator="CrashOverride" name="Wallpaper 006"/>
+    <wallpaper image="wall1" creator="Razen" name="Wallpaper 001"/>
+    <wallpaper image="wall2" creator="Razen" name="Wallpaper 002"/>
+    <wallpaper image="wall3" creator="Razen" name="Wallpaper 003"/>
+    <wallpaper image="wall4" creator="Razen" name="Wallpaper 004"/>
+    <wallpaper image="wall5" creator="Razen" name="Wallpaper 005"/>
+    <wallpaper image="wall6" creator="Razen" name="Wallpaper 006"/>
     <wallpaper image="wall7" creator="CrashOverride" name="Wallpaper 007"/>
     <wallpaper image="wall8" creator="CrashOverride" name="Wallpaper 008"/>
     <wallpaper image="wall9" creator="CrashOverride" name="Wallpaper 009"/>
-    <wallpaper image="wall10" creator="HolyAngel" name="Wallpaper 010"/>
+    <wallpaper image="wall10" creator="CrashOverride" name="Wallpaper 010"/>
     <wallpaper image="wall11" creator="CrashOverride" name="Wallpaper 011"/>
     <wallpaper image="wall12" creator="CrashOverride" name="Wallpaper 012"/>
     <wallpaper image="wall13" creator="CrashOverride" name="Wallpaper 013"/>
-    <wallpaper image="wall14" creator="Razen" name="Wallpaper 014"/>
-    <wallpaper image="wall15" creator="Razen" name="Wallpaper 015"/>
-    <wallpaper image="wall16" creator="Razen" name="Wallpaper 016"/>
+    <wallpaper image="wall14" creator="CrashOverride" name="Wallpaper 014"/>
+    <wallpaper image="wall15" creator="CrashOverride" name="Wallpaper 015"/>
+    <wallpaper image="wall16" creator="CrashOverride" name="Wallpaper 016"/>
     <wallpaper image="wall17" creator="CrashOverride" name="Wallpaper 017"/>
     <wallpaper image="wall18" creator="CrashOverride" name="Wallpaper 018"/>
-    <wallpaper image="wall19" creator="CrashOverride" name="Wallpaper 019"/>
-    <wallpaper image="wall20" creator="CrashOverride" name="Wallpaper 020"/>
-    <wallpaper image="wall21" creator="CrashOverride" name="Wallpaper 021"/>
-    <wallpaper image="wall22" creator="CrashOverride" name="Wallpaper 022"/>
-    <wallpaper image="wall23" creator="CrashOverride" name="Wallpaper 023"/>
-    <wallpaper image="wall24" creator="CrashOverride" name="Wallpaper 024"/>
 </wallpapers>
